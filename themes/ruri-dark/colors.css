@@ -84,30 +84,30 @@ h1 {
     border-left-color: #d67b96;
 }
 
-/* Green button */
+/* Green button*/
 .button_green > a,
 .button_green > ul {
-    border-color: #91b476;
+    border-color: #373B41;
 }
 .button_green > a,
 .button_green > ul > li > a {
-    color: #43644a;
-    background: #729a64;
+    color: #81A2BE;
+    background: #1D1F21;
 }
 .button_green > a:after {
-    border-left-color: #91b476;
+    border-left-color: #373B41;
 }
 .button_green:hover > a,
 .button_green > ul > li > a:hover {
-    color: #269926;
-    background: #67E667;
+    color: #d67b96;
+    background: #70293b;
 }
-.button_green:hover > a,
+.button_greeney:hover > a,
 .button_green:hover > ul {
-    border-color: #67E667;
+    border-color: #70293b;
 }
-.button_green:hover > a:after {
-    border-left-color: #269926;
+.button_grey:hover > a:after {
+    border-left-color: #d67b96;
 }
 
 /* column standard colors */
